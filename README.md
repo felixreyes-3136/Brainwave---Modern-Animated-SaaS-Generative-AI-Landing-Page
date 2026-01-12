@@ -4,13 +4,13 @@
 
 ![Brainwave - Modern Animated SaaS Generative AI Landing Page](/.github/images/img_main.png "Brainwave - Modern Animated SaaS Generative AI Landing Page")
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/sanidhyy/brainwave?icon=github&color=black&scale=1.01)](https://github.com/fantasy-3136/Brainwave-Modern-Animated-SaaS-Generative-AI-Landing-Page/blob/main/LICENSE "GitHub license")
+[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/felixreyes-3136 "Ask Me Anything!")
+[![GitHub license](https://flat.badgen.net/github/license/felixreyes-3136/brainwave?icon=github&color=black&scale=1.01)](https://github.com/fantasy-3136/Brainwave-Modern-Animated-SaaS-Generative-AI-Landing-Page/blob/main/LICENSE "GitHub license")
 [![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/fantasy-3136/Brainwave-Modern-Animated-SaaS-Generative-AI-Landing-Page/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/brainwave?icon=github&color=black&scale=1.01)](https://github.com/fantasy-3136/Brainwave-Modern-Animated-SaaS-Generative-AI-Landing-Page/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/sanidhyy/brainwave?icon=github&color=black&scale=1.01)](https://github.com/fantasy-3136/Brainwave-Modern-Animated-SaaS-Generative-AI-Landing-Page/commits "Github commits")
-[![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/brainwave?icon=github&color=black&scale=1.01)](https://github.com/fantasy-3136/Brainwave-Modern-Animated-SaaS-Generative-AI-Landing-Page/issues "GitHub issues")
-[![GitHub pull requests](https://flat.badgen.net/github/prs/sanidhyy/brainwave?icon=github&color=black&scale=1.01)](https://github.com/fantasy-3136/Brainwave-Modern-Animated-SaaS-Generative-AI-Landing-Page/pulls "GitHub pull requests")
+[![GitHub branches](https://flat.badgen.net/github/branches/felixreyes-3136/brainwave?icon=github&color=black&scale=1.01)](https://github.com/fantasy-3136/Brainwave-Modern-Animated-SaaS-Generative-AI-Landing-Page/branches "GitHub branches")
+[![Github commits](https://flat.badgen.net/github/commits/felixreyes-3136/brainwave?icon=github&color=black&scale=1.01)](https://github.com/fantasy-3136/Brainwave-Modern-Animated-SaaS-Generative-AI-Landing-Page/commits "Github commits")
+[![GitHub issues](https://flat.badgen.net/github/issues/felixreyes-3136/brainwave?icon=github&color=black&scale=1.01)](https://github.com/fantasy-3136/Brainwave-Modern-Animated-SaaS-Generative-AI-Landing-Page/issues "GitHub issues")
+[![GitHub pull requests](https://flat.badgen.net/github/prs/felixreyes-3136/brainwave?icon=github&color=black&scale=1.01)](https://github.com/fantasy-3136/Brainwave-Modern-Animated-SaaS-Generative-AI-Landing-Page/pulls "GitHub pull requests")
 [![Netlify Status](https://api.netlify.com/api/v1/badges/12f8872e-e503-44e8-aaee-9d024f8cba55/deploy-status)](https://app-brainwave.netlify.app/ "Netlify Status")
 
 <!-- Table of Contents -->
